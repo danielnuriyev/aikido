@@ -1,4 +1,10 @@
-## Aikido
+# Aikido
+
+## Our Style
+
+## Instructor
+
+## Time and Place
 
 Excel Martial Arts
 585 Washington St, Canton, MA 02021
