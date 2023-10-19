@@ -16,7 +16,7 @@ and much more
 
 ## Instructor
 
-I, Daniel Nuriyev, trained between 2009 - 2022 under Jason DeLucia, student of Takano Kōsaku Sensei. Prior to that between 1992 - 2008 I trained in NanQuan WuShu, Traditional Kongfu, Sanda and Taijiquan. In parallel I spent a few years learning and teaching Krav Maga.
+I, Daniel Nuriyev, trained between 2009 - 2022 under Jason DeLucia, student of Takano Kōsaku Sensei. Prior to that between 1992 - 2008 I trained in Changquan Wushu, Traditional Kongfu, Sanda and Taijiquan. In parallel I spent a few years learning and teaching Krav Maga.
 
 And, in the spirit of never stopping to learn, I am trying to learn BJJ and it's not easy ;)
 
