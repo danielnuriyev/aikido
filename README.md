@@ -28,3 +28,5 @@ Excel Martial Arts
 Tuesday, Thursday 19:30 - 21:00
 
 Minimum age 15
+
+[Additional info about the class](https://excelkarate.com/services/Aikido)
