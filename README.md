@@ -37,6 +37,13 @@ Some terms for beginners
 
 ### Basic words
 
+### Roles
+
+| kanji | romaji | translation |
+| ----- | ------ | ----------- |
+| 受け    | uke    | "receiver" of a technique  |
+| 受け    | uke    | "taker" - a person who performs a technique  |
+
 ### Positions
 
 | kanji | romaji | translation |
@@ -86,6 +93,15 @@ Some terms for beginners
 ### Full technique names
 
 migi ai hanmi shōmen uchi ikkyō omote - _tori_ and _uke_ start in _migi ai hanmi_, _uke_ starts with _shōmen uchi_ attack, _tori_ applies _ikkyō omote_ to the front (omote) of the _uke_
+
+### Rolls, falls, pins
+
+| kanji | romaji | translation |
+| ----- | ------ | ----------- |
+| 受け身  | ukemi  | roll or fall |
+| 前受け身 | mae ukemi | front roll or fall |
+| 後受け身  | ushiro ukemi | back roll or fall |
+| 抑え技    | osae waza    | pinning techniques  |
 
 
 
