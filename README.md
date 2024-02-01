@@ -103,6 +103,17 @@ migi ai hanmi shōmen uchi ikkyō omote - _tori_ and _uke_ start in _migi ai han
 | 後受け身  | ushiro ukemi | back roll or fall |
 | 抑え技    | osae waza    | pinning techniques  |
 
+### Way of performing a technique
+
+| kanji | romaji | translation |
+| ----- | ------ | ----------- |
+| 大円   | daien  | big circle   |
+| 小円    | shōen  | small circle  |
+
+Small circle techniques are performed using the minimal trajectory as in Tenshin Aikido, Daito ryu aiki jujutsu, Judo which is quicker and more destructive.
+
+Big circle techniques lead _uke_ into a pin or allow _uke_ to roll out to avoid trauma.
+
 
 
 
