@@ -35,6 +35,8 @@ Minimum age 15
 
 Some terms for beginners
 
+### Basic words
+
 ### Positions
 
 | kanji | romaji | translation |
@@ -48,18 +50,31 @@ Some terms for beginners
 | 右合半身    | migi ai hanmi  | right matching hanmi when _tori_ and _uke_ have the right foot forward  |
 | 左合半身    | hidari ai hanmi  | left matching hanmi  |
 | 逆合半身    | gyaku hanmi   | opposite hanmi when facing a training partner with the opposite foot forward |
+| 半身半立ち    | hanmi handachi  | "half body, half standing" - uke stands, tori kneels  |
+| 技            | waza            | technique, usually refers to a group of techniques  |
+| 座り技          | suwari waza      | "seated technique" - techniques performed while kneeling  |
 
 ### Attacks
 
 | kanji | romaji | translation |
 | ----- | ------ | ----------- |
-| 正面打ち  | shōmen uchi        | front  |
+| 正面打ち  | shōmen uchi          | front strike  |
+
+### Grabs
+| kanji | romaji | translation |
+| ----- | ------ | ----------- |
+| 手      | te    | hand        |
+| 片手    | katate  | wrist      |
+| 取り    | tori     | take       |
+| 片手取り  | katate dori  | wrist grab  |
 
 ### Techniques
 
 | kanji | romaji | translation |
 | ----- | ------ | ----------- |
 | 一教    | ikkyō  | first teaching  |
+| 投げ      | nage  | throw          |
+| 四方投げ  | shihōnage  | four directions throw |
 
 ### Directions
 
@@ -68,7 +83,7 @@ Some terms for beginners
 | 表    | omote  | front        |
 | 裏    | ura    | back          |
 
-# Full technique names
+### Full technique names
 
 migi ai hanmi shōmen uchi ikkyō omote - _tori_ and _uke_ start in _migi ai hanmi_, _uke_ starts with _shōmen uchi_ attack, _tori_ applies _ikkyō omote_ to the front (omote) of the _uke_
 
