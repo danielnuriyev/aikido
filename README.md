@@ -68,6 +68,7 @@ Some terms for beginners
 | 正面打ち  | shōmen uchi          | front strike  |
 
 ### Grabs
+
 | kanji | romaji | translation |
 | ----- | ------ | ----------- |
 | 手      | te    | hand        |
