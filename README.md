@@ -42,7 +42,7 @@ Some terms for beginners
 | kanji | romaji | translation |
 | ----- | ------ | ----------- |
 | 受け    | uke    | "receiver" of a technique  |
-| 受け    | uke    | "taker" - a person who performs a technique  |
+| 受け    | tori    | "taker" - a person who performs a technique  |
 
 ### Positions
 
