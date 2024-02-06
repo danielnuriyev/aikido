@@ -74,7 +74,9 @@ Some terms for beginners
 | 手      | te    | hand        |
 | 片手    | katate  | wrist      |
 | 取り    | tori     | take       |
-| 片手取り  | katate dori  | wrist grab  |
+| 片手取り  | katatedori  | wrist grab  |
+| 諸手      | morote  | all hands        |
+| 諸手取り    | morotedori  | grabbing of 2 hands by 2 hands  |
 
 ### Techniques
 
