@@ -59,7 +59,8 @@ Some terms for beginners
 | 逆合半身    | gyaku hanmi   | opposite hanmi when facing a training partner with the opposite foot forward |
 | 半身半立ち    | hanmi handachi  | "half body, half standing" - uke stands, tori kneels  |
 | 技            | waza            | technique, usually refers to a group of techniques  |
-| 座り技          | suwari waza      | "seated technique" - techniques performed while kneeling  |
+| 座技            | zagi            | "seated technique" - techniques performed while kneeling. The character 技 in this combination is pronounced as `gi` |
+| 座り技          | suwari waza      | same as above. why? ask the Japanese. |
 
 ### Attacks
 
