@@ -85,7 +85,8 @@ Some terms for beginners
 | ----- | ------ | ----------- |
 | 一教    | ikkyō  | first teaching  |
 | 投げ      | nage  | throw          |
-| 四方投げ  | shihōnage  | four directions throw |
+| 四方投げ  | shihō nage  | four directions throw |
+| 入り身投げ | irimi nage  | entering throw  | 
 
 ### Directions
 
