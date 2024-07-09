@@ -1,4 +1,4 @@
-# Aikido
+# Aikido / Aikijutsu
 
 ## Our Style
 
