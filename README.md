@@ -79,6 +79,12 @@ Some terms for beginners
 | 諸手      | morote  | all hands        |
 | 諸手取り    | morotedori  | grabbing of 2 hands by 2 hands  |
 
+### Technique groups
+
+| kanji | romaji | translation |
+| ----- | ------ | ----------- |
+| 押さえ技 | osae waza | hold-down techniques |
+
 ### Techniques
 
 | kanji | romaji | translation |
