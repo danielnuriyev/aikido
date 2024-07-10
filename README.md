@@ -84,6 +84,7 @@ Some terms for beginners
 | kanji | romaji | translation |
 | ----- | ------ | ----------- |
 | 押さえ技 | osae waza | hold-down techniques |
+| 関節技 | kansetsu waza | joint lock techniques |
 
 ### Techniques
 
