@@ -62,6 +62,12 @@ Some terms for beginners
 | 座技            | zagi            | "seated technique" - techniques performed while kneeling. The character 技 in this combination is pronounced as `gi` |
 | 座り技          | suwari waza      | same as above. why? ask the Japanese. |
 
+### Step type
+
+| kanji | romaji | translation |
+| ----- | ------ | ----------- |
+| 転換   | tenkan | ["conversion"](https://en.wikipedia.org/wiki/Tenkan)|
+
 ### Attacks
 
 | kanji | romaji | translation |
